@@ -1,1 +1,1 @@
-"Calculator in Java Script" 
+"Calculator made in Java Script" 
